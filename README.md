@@ -1,12 +1,12 @@
 # Churn-prediction-propensity-machine-learning
 
-# 📉 Customer Churn Analysis
+# Customer Churn Analysis
 
 This project performs a complete **Exploratory Data Analysis (EDA)** and **predictive modelling** pipeline for understanding and predicting **customer churn**. It aims to provide actionable insights for reducing churn through diagnostic analytics, machine learning, and strategic business recommendations.
 
 ---
 
-## 🧠 Project Objectives
+## Project Objectives
 
 - **Understand** why customers churn.
 - **Identify** key trends and relationships influencing churn.
@@ -15,7 +15,7 @@ This project performs a complete **Exploratory Data Analysis (EDA)** and **predi
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Category              | Tools & Libraries                              |
 |-----------------------|-------------------------------------------------|
@@ -27,7 +27,7 @@ This project performs a complete **Exploratory Data Analysis (EDA)** and **predi
 
 ---
 
-## 🔄 Pre-processing Pipeline
+## Pre-processing Pipeline
 
 1. **Data type conversion**
 2. **Remove duplicates and missing values**
@@ -39,7 +39,7 @@ This project performs a complete **Exploratory Data Analysis (EDA)** and **predi
 
 ---
 
-## 📊 EDA Highlights
+## EDA Highlights
 
 ### Univariate Insights
 - **High churn** observed in customers with **higher monthly charges** and **shorter tenure**.
@@ -56,7 +56,7 @@ This project performs a complete **Exploratory Data Analysis (EDA)** and **predi
 
 ---
 
-## 🧪 Domain-Specific Clustering
+## Domain-Specific Clustering
 
 - **K-Means Clustering** revealed **4 customer segments** based on tech service adoption.
 - **Elbow plot** confirmed optimal cluster number.
@@ -64,7 +64,7 @@ This project performs a complete **Exploratory Data Analysis (EDA)** and **predi
 
 ---
 
-## 🤖 Predictive Modelling & Deployment
+## Predictive Modelling & Deployment
 
 - **PCA + KNN model** used to address dimensionality issues and improve performance.
 - **MLflow** for experiment tracking and model monitoring.
@@ -74,7 +74,7 @@ This project performs a complete **Exploratory Data Analysis (EDA)** and **predi
 
 ---
 
-## 🔧 Future Improvements
+## Future Improvements
 
 1. **Enhance model deployment**: Add health check endpoints, logging, monitoring.
 2. **Deeper segmentation**: Study demographics of tech adopter clusters.
@@ -82,7 +82,7 @@ This project performs a complete **Exploratory Data Analysis (EDA)** and **predi
 
 ---
 
-## 💼 Stakeholder Focus
+## Stakeholder Focus
 
 Designed with ongoing **stakeholder engagement**:
 - Daily sprints & iterations.
